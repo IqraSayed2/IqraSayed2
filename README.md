@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Iqra, a passionate BSc IT student exploring the world of software development and design. I love building real-world projects using web technologies like HTML, CSS, Bootstrap, Django and React.<br><br>Currently learning Full-Stack Python development and enjoy working on both frontend and backend projects.<br><br>Currently Working On: A Django-based Cab booking project with Razorpay integration   <br>Interested In: Web development, databases, animations <br>Reach Me At: Email - iiqrasayed2@gmail.com  LinkedIn - www.linkedin.com/in/iqra-sayed-84ab69344/ <br>
+Hi! I'm Iqra, a passionate BSc IT student exploring the world of software development and design. I love building real-world projects using web technologies like HTML, CSS, Bootstrap, Django and React.<br><br>Currently learning Full-Stack Python development and enjoy working on both frontend and backend projects.<br><br>Currently Working On: A Django-based Cab booking project with Razorpay integration   <br>Interested In: Web development, databases, animations <br>
 
 
 ## 🌐 Socials:
