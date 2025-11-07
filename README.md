@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Iqra, a passionate BSc IT student exploring the world of Software Development, Data Science and Design. I love building real-world projects using web technologies like HTML, CSS, Bootstrap, MySQL, Python, Django, React, Angular, Flask, MongoDb and Django Rest Framework.<br><br>Currently learning Full-Stack Python development and enjoy working on both frontend and backend projects.<br>
+Hi! I'm Iqra, a passionate BSc IT student exploring the world of Software Development, Data Science and Design. I love building real-world projects using web technologies like HTML, CSS, Bootstrap, MySQL, Python, Django, React, Angular, Flask, MongoDb and Django Rest Framework.<br>Learning Full-Stack development and enjoy working on both frontend and backend projects.<br>
 
 
 ## 🌐 Socials:
