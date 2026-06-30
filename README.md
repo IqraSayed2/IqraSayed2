@@ -1,16 +1,16 @@
 ## 💫 About Me
 
-IT student with a strong foundation in Full-Stack Web Development, currently expanding into Data Analytics and Business Intelligence. I enjoy building complete systems from backend architecture to data-driven insights and applying structured thinking to solve real-world problems.
+Data Analyst & Business Analytics enthusiast with a strong foundation in SQL, Python, Excel, Power BI, and data-driven decision making. I enjoy transforming raw data into meaningful insights, building interactive dashboards, and solving business problems through analytics.
+Alongside analytics, I have a background in Full-Stack Web Development, giving me a deeper understanding of databases, backend systems, and end-to-end application development.
 
-
-**Key Focus Areas:**
-- 🔧 Full-Stack Development (Django, Flask, React)
-- 🗄️ Database Design & Normalization (MySQL, relational schema modeling)
-- 📊 Data Analysis using SQL, Excel, and Power BI
-- 🧠 Structured problem-solving & analytical thinking
-- 🔍 Data Cleaning & Preprocessing using Python (Pandas)
-- 🔐 Backend logic, authentication & API integration
-- 🚀 Building and deploying end-to-end applications
+**Key Focus Areas**
+- 📊 Data Analytics & Business Intelligence
+- 📈 Dashboard Development (Power BI/ Tableau)
+- 🗄️ SQL, Database Design & Data Modeling
+- 🧹 Data Cleaning & Analysis using Python
+- 📉 Business Insights & Performance Reporting
+- 🧠 Analytical Thinking & Problem Solving
+- 🔧 Full-Stack Development (Django & Flask)
 
 ---
 
@@ -32,6 +32,10 @@ IT student with a strong foundation in Full-Stack Web Development, currently exp
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+### 🗄️ Databases & Data
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +49,3 @@ IT student with a strong foundation in Full-Stack Web Development, currently exp
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-
-### 🗄️ Databases & Data
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
